@@ -13,5 +13,6 @@ public class PowerOfTwo {
             System.out.println(value);
             value = value *2;
         }
+        sc.close();
     }
 }
